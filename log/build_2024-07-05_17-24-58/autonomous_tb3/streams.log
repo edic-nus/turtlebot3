@@ -1,0 +1,51 @@
+[0.513s] Invoking command in '/home/wongwh/turtlebot3_ws/build/autonomous_tb3': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build --no-deps symlink_data --force
+[0.664s] running develop
+[0.667s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.667s]   warnings.warn(
+[0.748s] running egg_info
+[0.748s] writing autonomous_tb3.egg-info/PKG-INFO
+[0.750s] writing dependency_links to autonomous_tb3.egg-info/dependency_links.txt
+[0.750s] writing entry points to autonomous_tb3.egg-info/entry_points.txt
+[0.750s] writing requirements to autonomous_tb3.egg-info/requires.txt
+[0.750s] writing top-level names to autonomous_tb3.egg-info/top_level.txt
+[0.751s] reading manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+[0.754s] writing manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+[0.757s] running build_ext
+[0.757s] Creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous-tb3.egg-link (link to .)
+[0.757s] Installing autonomous_waiter script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.757s] Installing autonomous_waiter_lite script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.757s] Installing maze_solver script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.757s] Installing occupancy_grid_pub script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.757s] Installing sdf_spawner script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.757s] 
+[0.757s] Installed /home/wongwh/turtlebot3_ws/build/autonomous_tb3
+[0.757s] running symlink_data
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/resource/autonomous_tb3 -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/ament_index/resource_index/packages
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/package.xml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/launch/maze_navigation.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/launch/mapping.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/launch/hotel_waiter.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/launch/tb3_world_navigation.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/tb3_nav.rviz -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/tb3_world.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/tb3_nav_params.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/maze.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/maze.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.757s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/mapping.rviz -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.759s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/tb3_world.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.759s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/hotel_map.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.760s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/hotel_map.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.760s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/config/tb3_cartographer.lua -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.761s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/world/maze/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world/maze
+[0.761s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/world/maze/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world/maze
+[0.761s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/actor/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/actor
+[0.761s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/actor/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/actor
+[0.761s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/table/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/table/model-1_2.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/table/model-1_3.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/table/model-1_4.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/table/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/beer/model-1_4.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/beer/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.762s] symbolically linking /home/wongwh/turtlebot3_ws/build/autonomous_tb3/models/beer/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.791s] Invoked command in '/home/wongwh/turtlebot3_ws/build/autonomous_tb3' returned '0': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build --no-deps symlink_data --force

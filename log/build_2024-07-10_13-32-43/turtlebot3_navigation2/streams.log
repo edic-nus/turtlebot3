@@ -1,0 +1,54 @@
+[0.057s] Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake --build /home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[0.827s] Invoked command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake --build /home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[0.910s] Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake --install /home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2
+[0.935s] -- Install configuration: ""
+[0.939s] -- Execute custom install script
+[0.946s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/.navigation2.launch.py.swp
+[0.950s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[0.955s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[0.958s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[0.966s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.backup.yaml.swp
+[0.971s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swd
+[0.975s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swe
+[0.976s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swf
+[0.976s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swg
+[0.980s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swh
+[0.981s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swi
+[0.983s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swj
+[0.986s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swk
+[0.988s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swl
+[0.988s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swm
+[0.990s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swn
+[0.990s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swo
+[0.994s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.burger.yaml.swp
+[0.995s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/.withoutMppi.yaml.swp
+[0.996s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/backup/burger1jul.yaml
+[0.997s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/backup/burgerCrash.yaml
+[1.001s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/backup/burgerWorking.yaml
+[1.003s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/backup/burgerWorking2.yaml
+[1.003s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/backup/withMppi.yaml
+[1.004s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[1.005s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/fake.yaml
+[1.006s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/frames_2024-07-05_16.02.56.gv
+[1.009s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/frames_2024-07-05_16.02.56.pdf
+[1.010s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[1.010s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[1.014s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/withoutMppi.yaml
+[1.015s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/~
+[1.016s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[1.019s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[1.025s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[1.025s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[1.027s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[1.032s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[1.034s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[1.034s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[1.034s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[1.037s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[1.037s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[1.039s] -- Symlinking: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[1.059s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[1.078s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[1.079s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[1.080s] -- Up-to-date symlink: /home/wongwh/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[1.082s] Invoked command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake --install /home/wongwh/turtlebot3_ws/build/turtlebot3_navigation2

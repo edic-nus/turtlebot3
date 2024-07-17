@@ -1,0 +1,23 @@
+[0.588s] Invoking command in '/home/wongwh/turtlebot3_ws/build/autonomous_tb3': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build --no-deps symlink_data
+[0.740s] running develop
+[0.741s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.741s]   warnings.warn(
+[0.835s] running egg_info
+[0.835s] writing autonomous_tb3.egg-info/PKG-INFO
+[0.835s] writing dependency_links to autonomous_tb3.egg-info/dependency_links.txt
+[0.835s] writing entry points to autonomous_tb3.egg-info/entry_points.txt
+[0.835s] writing requirements to autonomous_tb3.egg-info/requires.txt
+[0.836s] writing top-level names to autonomous_tb3.egg-info/top_level.txt
+[0.838s] reading manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+[0.839s] writing manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+[0.845s] running build_ext
+[0.846s] Creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous-tb3.egg-link (link to .)
+[0.846s] Installing autonomous_waiter script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.846s] Installing autonomous_waiter_lite script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.846s] Installing maze_solver script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.846s] Installing occupancy_grid_pub script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.846s] Installing sdf_spawner script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.846s] 
+[0.846s] Installed /home/wongwh/turtlebot3_ws/build/autonomous_tb3
+[0.846s] running symlink_data
+[0.929s] Invoked command in '/home/wongwh/turtlebot3_ws/build/autonomous_tb3' returned '0': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build --no-deps symlink_data

@@ -1,0 +1,89 @@
+[0.770s] Invoking command in '/home/wongwh/turtlebot3_ws/src/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/autonomous_tb3': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/autonomous_tb3 build --build-base /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build install --record /home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log --single-version-externally-managed install_data
+[0.925s] running egg_info
+[0.927s] creating ../../../build/autonomous_tb3/autonomous_tb3.egg-info
+[0.927s] writing ../../../build/autonomous_tb3/autonomous_tb3.egg-info/PKG-INFO
+[0.927s] writing dependency_links to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/dependency_links.txt
+[0.928s] writing entry points to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/entry_points.txt
+[0.928s] writing requirements to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/requires.txt
+[0.928s] writing top-level names to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/top_level.txt
+[0.928s] writing manifest file '../../../build/autonomous_tb3/autonomous_tb3.egg-info/SOURCES.txt'
+[0.928s] reading manifest file '../../../build/autonomous_tb3/autonomous_tb3.egg-info/SOURCES.txt'
+[0.928s] writing manifest file '../../../build/autonomous_tb3/autonomous_tb3.egg-info/SOURCES.txt'
+[0.928s] running build
+[0.928s] running build_py
+[0.928s] creating /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build
+[0.928s] creating /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib
+[0.928s] creating /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.928s] copying autonomous_tb3/occupancy_grid_pub.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.928s] copying autonomous_tb3/hotel_waiter_multi_button.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.929s] copying autonomous_tb3/maze_solver.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.929s] copying autonomous_tb3/__init__.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.929s] copying autonomous_tb3/hotel_waiter_single_goal.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.929s] copying autonomous_tb3/spawn_entity.py -> /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3
+[0.929s] running install
+[0.930s] running install_lib
+[0.930s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.930s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/occupancy_grid_pub.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.930s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/hotel_waiter_multi_button.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.930s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/maze_solver.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.930s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/__init__.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.930s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/hotel_waiter_single_goal.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.931s] copying /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build/lib/autonomous_tb3/spawn_entity.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3
+[0.931s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/occupancy_grid_pub.py to occupancy_grid_pub.cpython-310.pyc
+[0.931s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/hotel_waiter_multi_button.py to hotel_waiter_multi_button.cpython-310.pyc
+[0.933s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/maze_solver.py to maze_solver.cpython-310.pyc
+[0.933s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/__init__.py to __init__.cpython-310.pyc
+[0.933s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/hotel_waiter_single_goal.py to hotel_waiter_single_goal.cpython-310.pyc
+[0.934s] byte-compiling /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3/spawn_entity.py to spawn_entity.cpython-310.pyc
+[0.935s] running install_data
+[0.935s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/ament_index
+[0.935s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/ament_index/resource_index
+[0.936s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/ament_index/resource_index/packages
+[0.936s] copying resource/autonomous_tb3 -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/ament_index/resource_index/packages
+[0.936s] copying package.xml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3
+[0.936s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.936s] copying launch/maze_navigation.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.936s] copying launch/mapping.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.937s] copying launch/hotel_waiter.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.937s] copying launch/tb3_world_navigation.launch.py -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/launch
+[0.937s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.937s] copying config/tb3_nav.rviz -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.938s] copying config/tb3_world.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.938s] copying config/tb3_nav_params.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.938s] copying config/maze.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.938s] copying config/maze.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.938s] copying config/mapping.rviz -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.939s] copying config/tb3_world.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.939s] copying config/hotel_map.pgm -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.940s] copying config/hotel_map.yaml -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.940s] copying config/tb3_cartographer.lua -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/config
+[0.941s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world
+[0.941s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world/maze
+[0.942s] copying world/maze/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world/maze
+[0.942s] copying world/maze/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/world/maze
+[0.942s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models
+[0.942s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/actor
+[0.942s] copying models/actor/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/actor
+[0.943s] copying models/actor/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/actor
+[0.943s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.943s] copying models/table/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.943s] copying models/table/model-1_2.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.943s] copying models/table/model-1_3.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.943s] copying models/table/model-1_4.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.943s] copying models/table/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/table
+[0.944s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.944s] copying models/beer/model-1_4.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.945s] copying models/beer/model.sdf -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.945s] copying models/beer/model.config -> /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer
+[0.945s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer/scripts
+[0.945s] creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/share/autonomous_tb3/models/beer/texutres
+[0.945s] running install_egg_info
+[0.945s] Copying ../../../build/autonomous_tb3/autonomous_tb3.egg-info to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3-0.0.0-py3.10.egg-info
+[0.945s] running install_scripts
+[0.958s] Installing autonomous_waiter script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.958s] Installing autonomous_waiter_lite script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.958s] Installing maze_solver script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.958s] Installing occupancy_grid_pub script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.958s] Installing sdf_spawner script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[0.959s] writing list of installed files to '/home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log'
+[1.070s] Invoked command in '/home/wongwh/turtlebot3_ws/src/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/autonomous_tb3' returned '0': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/autonomous_tb3 build --build-base /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build install --record /home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log --single-version-externally-managed install_data

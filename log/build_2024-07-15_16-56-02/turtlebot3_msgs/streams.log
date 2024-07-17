@@ -1,0 +1,25 @@
+[0.032s] Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/turtlebot3_description:/home/wongwh/turtlebot3_ws/install/turtlebot3_cartographer:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake /home/wongwh/turtlebot3_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/wongwh/turtlebot3_ws/install/turtlebot3_msgs
+[0.300s] -- Found action_msgs: 1.2.1 (/opt/ros/humble/share/action_msgs/cmake)
+[0.301s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.301s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.301s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.301s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.301s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.301s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.324s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.333s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[0.594s] -- Found ament_cmake_cppcheck: 0.12.11 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[0.594s] -- Found ament_cmake_cpplint: 0.12.11 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[0.595s] -- Found ament_cmake_uncrustify: 0.12.11 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[0.595s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.843s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.941s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.956s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.970s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.970s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.970s] -- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+[0.998s] -- Found ament_cmake_flake8: 0.12.11 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[0.998s] -- Found ament_cmake_pep257: 0.12.11 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[1.004s] -- Configuring done
+[1.031s] -- Generating done
+[1.033s] -- Build files have been written to: /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs

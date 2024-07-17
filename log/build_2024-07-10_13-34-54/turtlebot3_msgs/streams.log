@@ -1,0 +1,23 @@
+[0.045s] Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wongwh/turtlebot3_ws/install/turtlebot3_teleop:/home/wongwh/turtlebot3_ws/install/turtlebot3_example:/home/wongwh/turtlebot3_ws/install/autonomous_tb3:/opt/ros/humble /usr/bin/cmake --build /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs -- -j8 -l8
+[0.543s] [  1%] Built target turtlebot3_msgs__cpp
+[0.543s] [ 12%] Built target turtlebot3_msgs__rosidl_generator_c
+[0.543s] [ 12%] Built target ament_cmake_python_symlink_turtlebot3_msgs
+[0.544s] [ 23%] Built target turtlebot3_msgs__rosidl_typesupport_cpp
+[0.544s] [ 35%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_cpp
+[0.544s] [ 46%] Built target turtlebot3_msgs__rosidl_typesupport_c
+[0.544s] [ 57%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c
+[0.544s] [ 69%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c
+[0.544s] [ 80%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp
+[0.544s] [ 80%] Built target turtlebot3_msgs
+[0.544s] [ 81%] Built target turtlebot3_msgs__py
+[0.544s] [ 91%] Built target turtlebot3_msgs__rosidl_generator_py
+[0.544s] [ 94%] Built target turtlebot3_msgs__rosidl_typesupport_c__pyext
+[0.544s] [ 97%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.544s] [100%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c__pyext
+[0.607s] running egg_info
+[0.607s] writing turtlebot3_msgs.egg-info/PKG-INFO
+[0.607s] writing dependency_links to turtlebot3_msgs.egg-info/dependency_links.txt
+[0.607s] writing top-level names to turtlebot3_msgs.egg-info/top_level.txt
+[0.607s] reading manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+[0.607s] writing manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+[0.640s] [100%] Built target ament_cmake_python_build_turtlebot3_msgs_egg

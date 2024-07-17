@@ -1,0 +1,25 @@
+[0.867s] Invoking command in '/home/wongwh/turtlebot3_ws/src/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/autonomous_tb3': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/autonomous_tb3 build --build-base /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build install --record /home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log --single-version-externally-managed install_data
+[1.043s] running egg_info
+[1.043s] writing ../../../build/autonomous_tb3/autonomous_tb3.egg-info/PKG-INFO
+[1.044s] writing dependency_links to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/dependency_links.txt
+[1.044s] writing entry points to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/entry_points.txt
+[1.044s] writing requirements to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/requires.txt
+[1.044s] writing top-level names to ../../../build/autonomous_tb3/autonomous_tb3.egg-info/top_level.txt
+[1.047s] reading manifest file '../../../build/autonomous_tb3/autonomous_tb3.egg-info/SOURCES.txt'
+[1.047s] writing manifest file '../../../build/autonomous_tb3/autonomous_tb3.egg-info/SOURCES.txt'
+[1.047s] running build
+[1.047s] running build_py
+[1.050s] running install
+[1.050s] running install_lib
+[1.051s] running install_data
+[1.055s] running install_egg_info
+[1.056s] removing '/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.056s] Copying ../../../build/autonomous_tb3/autonomous_tb3.egg-info to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous_tb3-0.0.0-py3.10.egg-info
+[1.059s] running install_scripts
+[1.071s] Installing autonomous_waiter script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[1.071s] Installing autonomous_waiter_lite script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[1.072s] Installing maze_solver script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[1.072s] Installing occupancy_grid_pub script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[1.072s] Installing sdf_spawner script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+[1.072s] writing list of installed files to '/home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log'
+[1.109s] Invoked command in '/home/wongwh/turtlebot3_ws/src/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/autonomous_tb3' returned '0': PYTHONPATH=/home/wongwh/turtlebot3_ws/build/autonomous_tb3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/autonomous_tb3 build --build-base /home/wongwh/turtlebot3_ws/build/autonomous_tb3/build install --record /home/wongwh/turtlebot3_ws/build/autonomous_tb3/install.log --single-version-externally-managed install_data

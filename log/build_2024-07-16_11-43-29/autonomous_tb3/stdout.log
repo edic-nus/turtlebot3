@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing autonomous_tb3.egg-info/PKG-INFO
+writing dependency_links to autonomous_tb3.egg-info/dependency_links.txt
+writing entry points to autonomous_tb3.egg-info/entry_points.txt
+writing requirements to autonomous_tb3.egg-info/requires.txt
+writing top-level names to autonomous_tb3.egg-info/top_level.txt
+reading manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+writing manifest file 'autonomous_tb3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/python3.10/site-packages/autonomous-tb3.egg-link (link to .)
+Installing autonomous_waiter script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+Installing autonomous_waiter_lite script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+Installing maze_solver script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+Installing occupancy_grid_pub script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+Installing sdf_spawner script to /home/wongwh/turtlebot3_ws/install/autonomous_tb3/lib/autonomous_tb3
+
+Installed /home/wongwh/turtlebot3_ws/build/autonomous_tb3
+running symlink_data

@@ -1,0 +1,6 @@
+Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wongwh/turtlebot3_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wongwh/turtlebot3_ws/install/turtlebot3_msgs
+Invoked command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wongwh/turtlebot3_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wongwh/turtlebot3_ws/install/turtlebot3_msgs
+Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs -- -j4 -l4
+Invoked command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs -- -j4 -l4
+Invoking command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs
+Invoked command in '/home/wongwh/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wongwh/turtlebot3_ws/build/turtlebot3_msgs

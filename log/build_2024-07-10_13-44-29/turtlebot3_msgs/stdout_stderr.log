@@ -1,0 +1,22 @@
+[  1%] Built target turtlebot3_msgs__cpp
+[ 12%] Built target turtlebot3_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_symlink_turtlebot3_msgs
+[ 23%] Built target turtlebot3_msgs__rosidl_typesupport_cpp
+[ 35%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp
+[ 46%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_cpp
+[ 57%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c
+[ 69%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c
+[ 80%] Built target turtlebot3_msgs__rosidl_typesupport_c
+[ 80%] Built target turtlebot3_msgs
+[ 81%] Built target turtlebot3_msgs__py
+[ 91%] Built target turtlebot3_msgs__rosidl_generator_py
+[ 94%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c__pyext
+[ 97%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target turtlebot3_msgs__rosidl_typesupport_c__pyext
+running egg_info
+writing turtlebot3_msgs.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_msgs.egg-info/dependency_links.txt
+writing top-level names to turtlebot3_msgs.egg-info/top_level.txt
+reading manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_turtlebot3_msgs_egg
