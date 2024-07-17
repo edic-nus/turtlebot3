@@ -1,1 +1,0 @@
-/home/wongwh/turtlebot3_ws/src/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/autonomous_tb3/launch/hotel_waiter.launch.py

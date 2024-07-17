@@ -1,1 +1,0 @@
-/home/wongwh/turtlebot3_ws/src/build/autonomous_tb3/launch/tb3_world_navigation.launch.py
