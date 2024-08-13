@@ -1,8 +1,11 @@
-##Turtlebot3 Humble Repo
+#Turtlebot3 Humble Repo
+
 #About
+
 This repository is a summer project focused on porting Turtlebot3 from the Foxy distribution to the Humble distribution. The project involves developing and experimenting with the navigation stack to improve performance and functionality.
 
 #Branches
+
 Main Branch: Contains the primary files that have been modified and developed upon.
 Testing Branch: The current Turtlebot workspace, used for testing and validation.
 Sim Branch: Used for pulling the turtlebot3_simulations files.
