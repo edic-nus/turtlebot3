@@ -16,3 +16,5 @@ This repository is a summer project focused on porting Turtlebot3 from the Foxy 
 ## Problems Encountered
 
 - The current version of Gazebo Ignition lacks the functionality to create new maps within its software.
+
+Build the workspace here https://drive.google.com/drive/folders/1nYjhBDcMs3tyC_2oeoo8sAcHooYBmAJq?usp=drive_link
